@@ -1,0 +1,34 @@
+[
+    {
+      "time": "13:35 - 14:30",
+      "title": "Feedback",
+      "location": "Auditorium",
+      "color": "#000000",
+      "startHour": 13,
+      "duration": 1
+    },
+    {
+      "time": "13:35 - 15:00",
+      "title": "Observabilité et SRE avec Datadog - Hands-on session",
+      "location": "Avenir Light",
+      "color": "#008000",
+      "startHour": 13,
+      "duration": 2
+    },
+    {
+      "time": "14:35 - 15:30",
+      "title": "Le blueprint : outil de collaboration",
+      "location": "Avenir Roman",
+      "color": "#0000FF",
+      "startHour": 14,
+      "duration": 1
+    },
+    {
+      "time": "15:35 - 16:30",
+      "title": "Atelier UX/UI",
+      "location": "Pas d'Avenir",
+      "color": "#FF0000",
+      "startHour": 15,
+      "duration": 1
+    }
+  ]
